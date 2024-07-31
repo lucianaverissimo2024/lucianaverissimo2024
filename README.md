@@ -6,7 +6,7 @@ meu nome é luciana verissimo
 - estou me desenvolvendo na linguagem javascrpt
 - utilizo esse espaco para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- ### Você entrar em comtato comigo 📫
+- ### Você entrar em contato comigo 📫
 
 - 00001118898795sp@al.educacao.sp.gov.br
 
